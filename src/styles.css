@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.mdc-list-item__primary-text{
+    color: white;
+}
+.mat-drawer-inner-container {
+    width: fit-content !important;
+    height: fit-content !important;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 14px;
+}
