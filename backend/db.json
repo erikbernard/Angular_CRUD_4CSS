@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Celular",
+      "price": 1990.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook",
+      "price": "2789.00"
+    }
+  ]
+}
